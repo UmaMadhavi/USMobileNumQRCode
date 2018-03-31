@@ -1,0 +1,15 @@
+PODS:
+  - QRCodeReader.swift (8.1.1)
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - QRCodeReader.swift
+  - Toast-Swift
+
+SPEC CHECKSUMS:
+  QRCodeReader.swift: b164a681887de276d405ff02bce854d82cd6360b
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: af88692edd0df0d54a3d4862ec3e8c5c544b3b8c
+
+COCOAPODS: 1.4.0
